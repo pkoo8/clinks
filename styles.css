@@ -1,0 +1,27 @@
+body {
+    /* color : palevioletred; */
+    font-family: 'Courier New', Courier, monospace;
+    background-color:white;
+}
+:visited{
+    /* color :palevioletred; */
+    /* color : #00ffc8; */
+    color: tomato;
+    text-decoration-line: none;
+    text-decoration-color: white;
+
+}
+div{
+    border : 2px solid black;
+    padding :50px;
+    margin : 50px;
+    text-align: center;
+
+    /* float :right; */
+}
+.a{
+    float: left;
+}
+.b{
+    float: right;
+}
